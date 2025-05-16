@@ -22,7 +22,7 @@ python inference.py
 --output_dir /path/to/your/output_wav
 ```
 ### Pre-Trained Models
-You can download the pre-trained LibriTTS model [here](https://pan.baidu.com/s/13Dk9IuKiss0VM7B-l_PTaQ?pwd=f2si) and copy to cp\_scnet directory.
+You can download the pre-trained LibriTTS model [here](https://drive.google.com/file/d/1IziXkN8RtvOTv4BZbta_m1VG1CtVPaTd/view?usp=sharing) and copy to cp\_scnet directory.
 
 ## References
 - [rishikksh20/iSTFTNet-pytorch](https://github.com/rishikksh20/iSTFTNet-pytorch)
